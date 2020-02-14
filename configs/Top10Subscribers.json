@@ -1,0 +1,6 @@
+{
+  "appName": "Top10Subscribers",
+  "inputPath": "/data/ayush/assignment/edr/",
+  dbName: "ayush_test",
+  tableName: "top10_subscribers"
+}

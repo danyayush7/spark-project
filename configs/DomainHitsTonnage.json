@@ -1,0 +1,6 @@
+{
+  "appName": "DomainHitsTonnage",
+  "inputPath": "/data/ayush/assignment/edr/",
+  "dbName": "ayush_test",
+  "tableName": "domain_hits_tonnage"
+}

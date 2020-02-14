@@ -1,0 +1,6 @@
+{
+  "appName": "Top5ContentTypes",
+  "inputPath": "/data/ayush/assignment/edr/",
+  "dbName": "ayush_test",
+  "tableName": "top5_content_types"
+}
